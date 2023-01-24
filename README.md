@@ -1,3 +1,2 @@
-# Portfolio
-
-[https://roseratugo.github.io/](https://roseratugo.github.io/)
+# Personal webpage
+:globe_with_meridians: Link: https://roseratugo.github.io
